@@ -101,6 +101,7 @@ main
 }
 aside
 {
+    size: 1%;
     width: 30%;
     float: right;
 }
